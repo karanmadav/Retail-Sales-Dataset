@@ -24,21 +24,22 @@ The goal of this project is to deliver a business intelligence solution for anal
 ---
 
 ## 📂 Folder Structure
+# US Retail Sales Dashboard (Excel & Tableau)
+
+This project showcases a complete sales analysis dashboard built using Excel and Tableau based on the fictional Superstore dataset.
+The project directory is organized as follows:
+
 Superstore-Dashboard-USA/
-│
-├── Excel/
-│   └── Superstore_Excel_Dashboard.xlsx
-│
-├── Tableau/
-│   └── Superstore_USA.twbx
-│
-├── README.md
-│
-└── LICENSE (optional if you choose MIT or other license)
 
+Excel/: Contains the Excel dashboard file
 
+Superstore_Excel_Dashboard.xlsx
 
----
+Tableau/: Contains the Tableau packaged workbook
+
+Superstore_USA.twbx
+
+README.md: Project overview and documentation
 
 ## 📈 Key Features
 
